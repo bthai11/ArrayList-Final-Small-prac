@@ -38,10 +38,23 @@ public class Main{
 		System.out.println();
 
 		
-// 4. Write a method that will remove the Lego objects from the Array that have an age that is an odd number. YOU MUST USE MODULO FOR THIS! Call this method in the legoperson method. 
 
+//4.  Test number 4 here.
 		
 		}
         //Write methods here
+        // 4. Write a method that will remove the Lego objects from the Array that have an age that is an odd number. YOU MUST USE MODULO FOR THIS! Call this method in the main method. 
+
+
+// 5. Write a method that will return a String that includes the middle 3 letters of everyone's name in the list. "The middle chars are: bcd, abe, b__, erp, "
+// **** if their name is 1 or 2  characters long add "__" to fill in to make sure you have 3 chars.
+// If the name is even  take the middle 2 characters and it doesn't matter which side the 3rd comes from. For example:
+// "ABCDEF" ->  CDE or BCD is fine.
+
+    public static String midChar(ArrayList<LegoPerson> list ){
+
+      
+      return "";//Fix after
+    }
 
 	}
